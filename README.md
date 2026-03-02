@@ -1,16 +1,29 @@
-## Hi there 👋
+# Frank Bruno
 
-<!--
-**F-Bruno-Logic/F-Bruno-Logic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Systems Architect | Adversarial Logic & Forensic Auditing**
+> *Specializing in the Sovereign Sentinel Architecture (SSA) for High-Stakes Alignment.*
+---
 
-Here are some ideas to get you started:
+### 📜 Professional Thesis
+I bridge the gap between high-level alignment theory and deterministic systems engineering. My work focuses on the "Forensic Layer" of AI Safety—identifying not just *that* a model failed, but the logical pathway of the evasion. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛡️ Research Focus
+* **Sycophancy Loops:** Auditing recursive reinforcement learning failures where models prioritize user-concordance over truthfulness.
+* **Semantic Camouflage:** Mapping how adversarial prompts shift within high-dimensional embedding spaces to bypass safety filters.
+* **SSA (Sovereign Sentinel Architecture):** Developing modular, deterministic guardrails that operate independently of the model's primary weights.
+
+### 🔍 Verified Findings & Disclosure
+In accordance with responsible disclosure protocols, I utilize SHA-256 hashing to timestamp findings before sharing them with relevant Safety Teams.
+
+* **Research Notes:** [Sovereign Logic Architect](https://substack.com/@sovereignlogicarchitect)
+* **Public Key / Fingerprint:** Available via secure channel for verified disclosure and research inquiries.
+
+---
+
+### 🛠️ Current Work-in-Progress
+* **Trinity-Audit-Forensics:** A methodology for structured red-teaming reports.
+* **Logic-Gating-Protocols:** Research into hard-coded safety constraints.
+
+---
+
+*“We cannot rely on probabilistic safety for deterministic stakes.”*
