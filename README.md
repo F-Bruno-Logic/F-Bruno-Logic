@@ -20,10 +20,10 @@ In accordance with responsible disclosure protocols, I utilize SHA-256 hashing t
 
 ---
 
-### 🛠️ Current Work-in-Progress
-* **Trinity-Audit-Forensics:** A methodology for structured red-teaming reports.
-* **Logic-Gating-Protocols:** Research into hard-coded safety constraints.
-
+## 🛠️ Current Work-in-Progress
+- **[Trinity-Audit-Forensics](https://github.com/F-Bruno-Logic/Trinity-Audit-Forensics):** A methodology for structured red-teaming reports.
+- **[SSA v1.1 Abstract](https://github.com/F-Bruno-Logic/Trinity-Audit-Forensics/blob/main/methodology/ABSTRACT.md):** The public release of the Sovereign Sentinel Architecture framework is now live.
+- **Logic-Gating-Protocols:** Research into hard-coded safety constraints.
 ---
 
 *“We cannot rely on probabilistic safety for deterministic stakes.”*
