@@ -24,7 +24,7 @@ teams on high-stakes medical decisions. I approach AI safety from inside the
 professional workflows where these systems are actually deployed — not from a 
 lab.
 
-No institutional affiliation. No engineering background. Documented evidence only.
+No institutional affiliation. Documented evidence only.
 
 ---
 
