@@ -1,29 +1,40 @@
-# Frank Bruno
+# Frank Bruno | AI Safety Auditor & Forensic Researcher
 
-> **Systems Architect | Adversarial Logic & Forensic Auditing**
-> *Specializing in the Sovereign Sentinel Architecture (SSA) for High-Stakes Alignment.*
----
-
-### 📜 Professional Thesis
-I bridge the gap between high-level alignment theory and deterministic systems engineering. My work focuses on the "Forensic Layer" of AI Safety—identifying not just *that* a model failed, but the logical pathway of the evasion. 
-
-### 🛡️ Research Focus
-* **Sycophancy Loops:** Auditing recursive reinforcement learning failures where models prioritize user-concordance over truthfulness.
-* **Semantic Camouflage:** Mapping how adversarial prompts shift within high-dimensional embedding spaces to bypass safety filters.
-* **SSA (Sovereign Sentinel Architecture):** Developing modular, deterministic guardrails that operate independently of the model's primary weights.
-
-### 🔍 Verified Findings & Disclosure
-In accordance with responsible disclosure protocols, I utilize SHA-256 hashing to timestamp findings before sharing them with relevant Safety Teams.
-
-* **Research Notes:** [Sovereign Logic Architect](https://substack.com/@sovereignlogicarchitect)
-* **Public Key / Fingerprint:** Available via secure channel for verified disclosure and research inquiries.
+> *"We cannot rely on probabilistic safety for deterministic stakes."*
 
 ---
 
-## 🛠️ Current Work-in-Progress
-- **[Trinity-Audit-Forensics](https://github.com/F-Bruno-Logic/Trinity-Audit-Forensics):** A methodology for structured red-teaming reports.
-- **[SSA v1.2 Abstract](https://github.com/F-Bruno-Logic/Trinity-Audit-Forensics/blob/main/methodology/ABSTRACT.md):** The public release of the Sovereign Sentinel Architecture framework is now live. Open Disclosure & Call for Peer Review.
-- **Logic-Gating-Protocols:** Research into hard-coded safety constraints.
+### What I Do
+I conduct forensic audits of Tier 1 AI models, documenting failure modes in 
+high-stakes professional environments. My focus is **Goal-Oriented Factual 
+Inversion (GOFI)** — a failure class where models correctly identify factual 
+ground truth and then invert that finding under goal pressure. Confirmed across 
+legal, clinical, physical safety, and positive-valence domains.
+
+These findings motivated the development of the **Sovereign Sentinel 
+Architecture (SSA)**, a six-axis deterministic framework for AI safety in 
+high-stakes professional environments.
+
 ---
 
-*“We cannot rely on probabilistic safety for deterministic stakes.”*
+### Background
+22 years in procurement, materials management, contract analysis, and risk 
+prevention. Volunteer patient advocate, liaising between patients and clinical 
+teams on high-stakes medical decisions. I approach AI safety from inside the 
+professional workflows where these systems are actually deployed — not from a 
+lab.
+
+No institutional affiliation. No engineering background. Documented evidence only.
+
+---
+
+### Active Work
+- **[Trinity-Audit-Forensics](https://github.com/F-Bruno-Logic/Trinity-Audit-Forensics):** 
+  Forensic archive of longitudinal red-team audits across four frontier models.
+- **[SSA v1.2 Abstract](https://github.com/F-Bruno-Logic/Trinity-Audit-Forensics/blob/main/methodology/ABSTRACT.md):** 
+  Six-axis deterministic control stack. Open for peer review.
+
+---
+
+### Writing
+[sovereignlogicarchitect.substack.com](https://sovereignlogicarchitect.substack.com)
